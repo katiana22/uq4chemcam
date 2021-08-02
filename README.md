@@ -19,6 +19,8 @@ has granted for itself and others acting on its behalf a nonexclusive, paid-up, 
 worldwide license in this material to reproduce, prepare derivative works, distribute
 copies to the public, perform publicly, display publicly, and to permit others to do so.
 
+Permission is granted to the public to copy, use, modify, and distribute this material without charge, provided that the Notice in its entirety, including without limitation the statement of reserved government rights, are reproduced on all copies.
+
 THE SOFTWARE AND DOCUMENTATION IS PROVIDED “AS IS”. NEITHER THE UNITED
 STATES NOR THE UNITED STATES DEPARTMENT OF ENERGY/NATIONAL NUCLEAR
 SECURITY ADMINSTRATION, NOR TRIAD NATIONAL SECURITY, LLC, NOR ANY OF
