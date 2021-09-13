@@ -1,6 +1,5 @@
 ## UQ for ChemCam
-Codes for the UQ for ChemCam project as part of the AML 2021 program at Los Alamos National Laboratory.
-
+Codes for the "Neural Density Estimation and Uncertainty Quantification for Laser Induced Breakdown Spectroscopy Spectra" paper, submitted to the Machine Learning and the Physical Sciences Workshop at the 35th Conference on Neural Information Processing Systems (NeurIPS).
 ### Contents
 
 * _LIBS_regression_per_oxide-git.ipynb_ - Performs regression for LIBS spectra and uncertainty propagation with bootstrapping
@@ -10,6 +9,4 @@ Codes for the UQ for ChemCam project as part of the AML 2021 program at Los Alam
 
 Datasets can be made available upon request.
 
-## Contact
-kontolati@jhu.edu
 
